@@ -13,6 +13,8 @@ a .home{
 .logo-contend{
     display: flex;
     margin: 20px;
+    width: 100%;
+    
 }
 .world-title{
     padding: 7px;
@@ -31,6 +33,7 @@ a .home{
 .navbar ul{
     display: flex;
     padding: 17px;
+    
     
 }
 .navbar a{
