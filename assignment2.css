@@ -10,10 +10,15 @@ a .home{
     color: #FF5400;
 
 }
+#first{
+    width: 70px;
+}
 .logo-contend{
     display: flex;
     margin: 20px;
-    width: 100%;
+
+    
+    
     
 }
 .world-title{
@@ -48,7 +53,7 @@ a .home{
     
     background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0.5)),url(B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png) ;
     height: 700px;
-    width: 1400px;
+    width: 1300px;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -152,7 +157,7 @@ input,.submitj{
     gap: 10px;
 }
 .box{
-    padding-left: 17%;
+    padding-left: 8%;
     padding-top: 20px;
 }
 .box1{
@@ -283,7 +288,9 @@ footer{
     font-size: 20px;
 }
 
-
+footer{
+    margin-top: 10px;
+}
 
 
 
